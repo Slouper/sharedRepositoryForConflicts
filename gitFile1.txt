@@ -1,8 +1,5 @@
 1. zápis
-<<<<<<< HEAD
 2. zápis
 5. sloupek
-=======
 4. hovno
 2. zápis
->>>>>>> 385203290d29f368c1c07b6ea8d3781da956c2d0
