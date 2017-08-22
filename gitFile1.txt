@@ -4,3 +4,4 @@
 4. hovno
 2. zápis
 7. zápis from vim
+8. Petr je borec
