@@ -3,3 +3,7 @@
 5. sloupek
 4. hovno
 2. zápis
+<<<<<<< HEAD
+=======
+7. zápis from vim
+>>>>>>> myNewBranch
