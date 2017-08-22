@@ -6,3 +6,4 @@
 7. zápis from vim
 8. Petr je borec
 9. Ondra ale vetsi
+10. Pridano hovno
