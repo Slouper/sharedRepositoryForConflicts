@@ -1,0 +1,2 @@
+# sharedRepositoryForConflicts
+WorkshopGIT
